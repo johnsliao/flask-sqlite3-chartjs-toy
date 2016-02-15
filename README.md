@@ -1,2 +1,1 @@
-# D3.js-flask
-Flask + SQL3 + D3.js
+Playing around with chart.js, sqlite3, flask
