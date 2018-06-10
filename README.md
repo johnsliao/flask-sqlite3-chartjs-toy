@@ -2,7 +2,7 @@ Playing around with chart.js, sqlite3, flask
 
 Creates simple line chart using data from sqlite3 database.  
 
-#How to set up:  
+# How to set up:  
 
 1. Clone repository
 2. Install dependencies `pip install -r requirements.txt`
